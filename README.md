@@ -55,7 +55,7 @@ Get the files from
     - customer_data_analysis.sql
 - dataset/
     - customer_shopping_data.csv
-- observations/
+- insights/
     - analysis_results.txt
 
 Feel free to explore the provided SQL queries and adapt them to your own datasets. For more details, refer to the SQL files and the dataset file in the repository.
